@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "I love you too! 😘";
+  question.innerHTML = "ihh palibhasa kasi alam na alam mo kung pano ako kunin eh isang ngiti, isang kanta, isang akap, isang sorry, wala umiikot na ulit ang mundo ko, matalino akong tao eh pero pag dating sayo ewan ko, natatanga ako";
   gif.src =
     "https://media1.giphy.com/media/iCVzZwwE6QNAV2tEE0/giphy.gif";
 });
